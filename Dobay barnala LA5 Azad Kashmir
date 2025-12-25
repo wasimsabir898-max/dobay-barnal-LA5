@@ -1,375 +1,181 @@
-<section>
-  <h2>📜 قواعد و ضوابط</h2>
-
-  <ol>
-    <li>
-      کشمیری ایجوکیشن اینڈ ویلفیئر آرگنائزیشن ڈوبے مکمل طور پر ایک غیر سیاسی
-      اور غیر منافع بخش تنظیم ہے۔ اس کے سوشل میڈیا گروپس یا فورمز پر کسی بھی
-      قسم کی سیاسی، فرقہ وارانہ یا نفرت انگیز پوسٹ کی اجازت نہیں۔
-    </li>
-
-    <li>
-      کسی بھی ممبر کو تنظیم کے سربراہ یا دیگر ذمہ داران کے خلاف
-      سوشل میڈیا یا گروپ میں بغیر اجازت پوسٹ کرنے کی اجازت نہیں ہوگی۔
-    </li>
-
-    <li>
-      تنظیم میں دیانت داری، شفافیت اور باہمی احترام لازم ہے۔
-      کسی بھی قسم کی بدتمیزی یا بدزبانی قابلِ قبول نہیں۔
-    </li>
-
-    <li>
-      تنظیم کے زیر انتظام چلنے والے تمام پروگرامز میں
-      کسی بھی سیاسی جماعت یا نظریے کی تشہیر کی اجازت نہیں۔
-    </li>
-
-    <li>
-      تنظیم کے تمام فیصلے باہمی مشاورت سے ہوں گے
-      اور تمام ممبران ان قواعد و ضوابط کے پابند ہوں گے۔
-    </li>
-  </ol>
-</section><section>
-  <h2>🎯 ہمارے مقاصد</h2>
-
-  <ul>
-    <li>غریب اور مستحق بچوں کی تعلیم و تربیت</li>
-    <li>یتیم بچوں اور بیواؤں کی مالی معاونت</li>
-    <li>مستحق خاندانوں کو راشن اور ضروری اشیاء کی فراہمی</li>
-    <li>بچوں کی شادی میں مالی تعاون</li>
-    <li>قبروں اور جنازہ گاہوں کی صفائی و دیکھ بھال</li>
-    <li>مساجد کے لیے مالی مدد</li>
-    <li>قدرتی آفات میں فوری امداد</li>
-    <li>نوجوانوں کو مثبت سرگرمیوں کی طرف راغب کرنا</li>
-  </ul>
-</section><section class="donate">
-  <h2>💚 عطیہ / بینک معلومات</h2>
-
-  <p>
-    <strong>Bank:</strong> Allied Bank Limited (ABL) – Barnala Branch (1419)
-  </p>
-
-  <p>
-    <strong>Account Title:</strong><br>
-    Muhammad Waris & Farman Ali
-  </p>
-
-  <p>
-    <strong>IBAN:</strong><br>
-    PK82ABPA0010152698760012
-  </p>
-
-  <p>
-    <strong>رابطہ:</strong><br>
-    0342-9842301<br>
-    0305-5742301
-  </p>
-
-  <p>
-    <strong>ذمہ دار:</strong><br>
-    ملک محمد وارث اعوان
-  </p>
-</section>!DOCTYPE html><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ur">
 <head>
-  <meta charset="UTF-8"><section>
-  <h2>🗳️ چھٹی سے متعلق عوامی رائے</h2>
+<meta charset="UTF-8">
+<title>Dobay Barnala LA5 – Azad Kashmir</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <p>کیا آپ ڈوبے ٹرسٹ ہسپتال کے لیے اعلان کردہ چھٹی کے حق میں ہیں؟</p>
+<style>
+body{
+  margin:0;
+  font-family:"Noto Nastaliq Urdu", Arial, sans-serif;
+  background:#f4f6f5;
+  direction:rtl;
+}
+header{
+  background:#0b5d3b;
+  color:white;
+  text-align:center;
+  padding:20px;
+}
+section{
+  background:white;
+  margin:15px;
+  padding:15px;
+  border-radius:10px;
+}
+h2{
+  color:#0b5d3b;
+}
+ul,ol{
+  padding-right:20px;
+}
+.donate{
+  background:#e8f5ee;
+  border:2px solid #0b5d3b;
+}
+button{
+  padding:10px 15px;
+  margin:5px;
+  font-size:15px;
+  cursor:pointer;
+}
+footer{
+  background:#0b5d3b;
+  color:white;
+  text-align:center;
+  padding:15px;
+  font-size:14px;
+}
+a{
+  color:#0b5d3b;
+  font-weight:bold;
+  text-decoration:none;
+}
+.whatsapp{
+  display:inline-block;
+  background:#25D366;
+  color:white;
+  padding:12px 20px;
+  border-radius:8px;
+  margin-top:10px;
+}
+.box{
+  border:1px solid #ddd;
+  padding:10px;
+  border-radius:8px;
+  margin-top:10px;
+}
+</style>
+</head>
 
-  <button onclick="voteYes()">✅ ہاں</button>
-  <button onclick="voteNo()">❌ نہیں</button>
+<body>
 
-  <p id="voteResult"></p>
+<header>
+<h1>ڈوبے برنالہ LA5 – آزاد کشمیر</h1>
+<p>خدمتِ انسانیت — صدقۂ جاریہ</p>
+<p>1 روپیہ، 50 پیسے یا 1 سینٹ — نیت اہم ہے</p>
+</header>
+
+<section>
+<h2>ہمارا مشن</h2>
+<p>
+یہ مشن اللہ کی رضا کے لیے شروع کیا گیا ہے تاکہ
+ڈوبے برنالہ LA5 آزاد کشمیر میں
+یتیموں، بیواؤں، غریب مریضوں اور مستحق خاندانوں
+کی مدد کی جا سکے اور گاؤں کو ایک ماڈل گاؤں بنایا جا سکے۔
+</p>
+</section>
+
+<section>
+<h2>ہمارے مقاصد</h2>
+<ul>
+<li>یتیم بچوں کی تعلیم و کفالت</li>
+<li>بیوہ اور غریب خاندانوں کی مالی مدد</li>
+<li>مریضوں کے علاج اور دوائیاں</li>
+<li>راشن اور ضروری اشیاء کی فراہمی</li>
+<li>قدرتی آفات میں فوری امداد</li>
+<li>مساجد اور قبرستان کی دیکھ بھال</li>
+</ul>
+</section>
+
+<section>
+<h2>قواعد و ضوابط</h2>
+<ol>
+<li>یہ تنظیم غیر سیاسی اور غیر منافع بخش ہے۔</li>
+<li>سیاسی، فرقہ وارانہ یا نفرت انگیز گفتگو ممنوع ہے۔</li>
+<li>تمام عطیات شفاف طریقے سے استعمال ہوں گے۔</li>
+<li>تمام فیصلے باہمی مشاورت سے ہوں گے۔</li>
+</ol>
+</section>
+
+<section class="donate">
+<h2>💚 عطیہ / Donate</h2>
+
+<div class="box">
+<strong>🌍 International (Italy / Europe)</strong><br>
+Bank: UniCredit (Italy)<br>
+Account Name: WASIM SABIR<br>
+IBAN: IT74V0200801673000420710073<br>
+📞 Contact: <a href="tel:+393482784434">+39 348 278 4434</a><br>
+<a class="whatsapp" href="https://wa.me/393482784434" target="_blank">
+WhatsApp (Italy)
+</a>
+</div>
+
+<div class="box">
+<strong>🇵🇰 Pakistan Donation</strong><br>
+Bank: Allied Bank Limited (ABL)<br>
+Branch: Barnala (1419)<br>
+Account Title: Muhammad Waris &amp; Farman Ali<br>
+IBAN: PK82ABPA0010152698760012<br>
+📞 Contact: 0342-9842301 / 0305-5742301<br>
+Responsible: Malik Muhammad Waris Awan
+</div>
+
+<p>
+آپ کسی بھی رقم سے حصہ ڈال سکتے ہیں۔
+اللہ آپ کے مال اور نیت میں برکت عطا فرمائے۔ آمین 🤲
+</p>
+</section>
+
+<section>
+<h2>🗳️ عوامی رائے (چھٹی)</h2>
+<p>کیا آپ چھٹی کے حق میں ہیں؟</p>
+
+<button onclick="voteYes()">👍 ہاں</button>
+<button onclick="voteNo()">👎 نہیں</button>
+
+<p>
+ہاں ووٹ: <span id="yes">0</span><br>
+نہیں ووٹ: <span id="no">0</span>
+</p>
 </section>
 
 <script>
-  let yes = 0;
-  let no = 0;
+let yes = localStorage.getItem("yesVotes") || 0;
+let no = localStorage.getItem("noVotes") || 0;
 
-  function voteYes() {
-    yes++;
-    showResult();
-  }
+document.getElementById("yes").innerText = yes;
+document.getElementById("no").innerText = no;
 
-  function voteNo() {
-    no++;
-    showResult();
-  }
-
-  function showResult() {
-    document.getElementById("voteResult").innerHTML =
-      "ہاں: " + yes + " ووٹ | نہیں: " + no + " ووٹ";
-  }
+function voteYes(){
+  yes++;
+  localStorage.setItem("yesVotes", yes);
+  document.getElementById("yes").innerText = yes;
+}
+function voteNo(){
+  no++;
+  localStorage.setItem("noVotes", no);
+  document.getElementById("no").innerText = no;
+}
 </script>
-  <title>Dobay Barnala LA5 – Azad Kashmir</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body{
-      margin:0;
-      font-family: "Noto Nastaliq Urdu", "Arial", sans-serif;
-      background:#f5f5f5;
-      direction: rtl;
-    }
-    header{
-      background:#0b5d3b;
-      color:white;
-      text-align:center;
-      padding:20px;
-    }
-    header h1{
-      margin:0;
-      font-size:26px;
-    }
-    header p{
-      margin-top:10px;
-      font-size:16px;
-    }
-    section{
-      background:white;
-      margin:15px;
-      padding:15px;
-      border-radius:10px;
-      box-shadow:0 0 5px rgba(0,0,0,0.1);
-    }
-    h2{
-      color:#0b5d3b;
-      border-bottom:2px solid #0b5d3b;
-      padding-bottom:5px;
-    }
-    img{
-      width:100%;
-      border-radius:10px;
-      margin:10px 0;
-    }
-    .donate{
-      background:#e8f5ee;
-      border:2px solid #0b5d3b;
-    }
-    .donate strong{
-      color:#0b5d3b;
-    }
-    footer{
-      text-align:center;
-      padding:15px;
-      font-size:14px;
-      color:#555;
-    }
-  </style>
-</head>
-<body>
-
-<header>
-  <h1>ڈوبے برنالا LA5 – آزاد کشمیر</h1>
-  <p>خدمتِ انسانیت — صدقۂ جاریہ</p>
-</header>
-
-<section>
-  <h2>ہمارا مشن</h2>
-  <p>
-    یہ مشن اللہ کی رضا کے لیے شروع کیا گیا ہے تاکہ
-    گاؤں ڈوبے برنالا اور آس پاس کے مستحق افراد،
-    غریب مریضوں، یتیم بچوں اور ضرورت مند خاندانوں
-    کی مدد کی جا سکے۔
-  </p>
-</section>
-
-<section>
-  <h2>ہمارے مقاصد</h2>
-  <ul>
-    <li>غریب اور مستحق مریضوں کا علاج</li>
-    <li>یتیم اور غریب بچوں کی تعلیم</li>
-    <li>بیوہ خواتین اور بے سہارا خاندانوں کی مدد</li>
-    <li>راشن، کپڑے اور ضروریاتِ زندگی کی فراہمی</li>
-    <li>شفاف اور دیانتدار نظام</li>
-  </ul>
-</section>
-
-<section>
-  <h2>قواعد و ضوابط</h2>
-  <p>
-    یہ مشن غیر سیاسی اور غیر فرقہ وارانہ ہے۔
-    تمام عطیات مکمل شفافیت کے ساتھ
-    صرف فلاحی کاموں میں استعمال کیے جائیں گے۔
-  </p>
-</section>
-
-<section class="donate">
-  <h2>عطیہ (Donate)</h2>
-  <p>
-    آپ 1 روپیہ، 50 پیسے یا جتنا دل چاہے عطیہ کر سکتے ہیں۔
-    آپ کا چھوٹا سا تعاون کسی کی زندگی بدل سکتا ہے۔
-  </p>
-
-  <p><strong>Bank Name:</strong> UniCredit (Italy)</p>
-  <p><strong>Account Name:</strong> WASIM SABIR</p>
-  <p><strong>IBAN:</strong> IT74V0200801673000420710073</p>
-</section>
-
-<section>
-  <h2>اعتماد اور شفافیت</h2>
-  <p>
-    ہر عطیہ درست جگہ پر پہنچایا جائے گا۔
-    ضرورت پڑنے پر تفصیلات اور ثبوت بھی فراہم کیے جائیں گے۔
-  </p>
-</section>
 
 <footer>
-  <p>
-    اللہ تعالیٰ آپ کے مال اور نیت میں برکت عطا فرمائے۔ آمین 🤲
-  </p>
-</footer>
-
-</body>
-</html>
-<html lang="ur">
-<head>
-  <meta charset="UTF-8">
-  <title>Dobay Barnala LA5 – Azad Kashmir</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body{
-      margin:0;
-      font-family: "Noto Nastaliq Urdu", "Arial", sans-serif;
-      background:#f5f5f5;
-      direction: rtl;
-    }
-    header{
-      background:#0b5d3b;
-      color:white;
-      text-align:center;
-      padding:20px;
-    }
-    header h1{
-      margin:0;
-      font-size:26px;
-    }
-    header p{
-      margin-top:10px;
-      font-size:16px;
-    }
-    section{
-      background:white;
-      margin:15px;
-      padding:15px;
-      border-radius:10px;
-      box-shadow:0 0 5px rgba(0,0,0,0.1);
-    }
-    h2{
-      color:#0b5d3b;
-      border-bottom:2px solid #0b5d3b;
-      padding-bottom:5px;
-    }
-    img{
-      width:100%;
-      border-radius:10px;
-      margin:10px 0;
-    }
-    .donate{
-      background:#e8f5ee;
-      border:2px solid #0b5d3b;
-    }
-    .donate strong{
-      color:#0b5d3b;
-    }
-    footer{
-      text-align:center;
-      padding:15px;
-      font-size:14px;
-      color:#555;
-    }
-  </style>
-</head>
-<body>
-
-<header>
-  <h1>ڈوبے برنالا LA5 – آزاد کشمیر</h1>
-  <p>خدمتِ انسانیت — صدقۂ جاریہ</p>
-</header>
-
-<section>
-  <h2>ہمارا مشن</h2>
-  <p>
-    یہ مشن اللہ کی رضا کے لیے شروع کیا گیا ہے تاکہ
-    گاؤں ڈوبے برنالا اور آس پاس کے مستحق افراد،
-    غریب مریضوں، یتیم بچوں اور ضرورت مند خاندانوں
-    کی مدد کی جا سکے۔
-  </p>
-</section>
-
-<section>
-  <h2>ہمارے مقاصد</h2>
-  <ul>
-    <li>غریب اور مستحق مریضوں کا علاج</li>
-    <li>یتیم اور غریب بچوں کی تعلیم</li>
-    <li>بیوہ خواتین اور بے سہارا خاندانوں کی مدد</li>
-    <li>راشن، کپڑے اور ضروریاتِ زندگی کی فراہمی</li>
-    <li>شفاف اور دیانتدار نظام</li>
-  </ul> 
-</section>
-
-<section>
-  <h2>قواعد و ضوابط</h2>
-  <p>
-    یہ مشن غیر سیاسی اور غیر فرقہ وارانہ ہے۔
-    تمام عطیات مکمل شفافیت کے ساتھ
-    صرف فلاحی کاموں میں استعمال کیے جائیں گے۔
-  </p>
-</section>
-
-<section class="donate">
-  <h2>عطیہ (Donate)</h2>
-  <p>
-    آپ 1 روپیہ، 50 پیسے یا جتنا دل چاہے عطیہ کر سکتے ہیں۔
-    آپ کا چھوٹا سا تعاون کسی کی زندگی بدل سکتا ہے۔
-  </p>
-
-  <p><strong>Bank Name:</strong> UniCredit (Italy)</p>
-  <p><strong>Account Name:</strong> WASIM SABIR</p>
-  <p><strong>IBAN:</strong> IT74V0200801673000420710073</p>
-</section>
-
-<section>
-  <h2>اعتماد اور شفافیت</h2>
-  <p>
-    ہر عطیہ درست جگہ پر پہنچایا جائے گا۔<section class="donate">
-  <h2>عطیہ / رابطہ</h2>
-
-  <p>
-    آپ اس مشن میں کسی بھی رقم سے حصہ ڈال سکتے ہیں،
-    چاہے 1 روپیہ ہو یا 1 سینٹ — نیت اہم ہے۔
-  </p>
-
-  <p>
-    <strong>📞 Italy Contact:</strong><br>
-    <a href="tel:+393482784434">+39 348 278 4434</a>
-  </p>
-
-  <p>
-    <strong>💬 WhatsApp:</strong><br>
-    <a href="https://wa.me/393482784434" target="_blank">
-      WhatsApp پر رابطہ کریں
-    </a>
-  </p>
-
-  <p>
-    <strong>🏦 Bank (Italy – UniCredit)</strong><br>
-    Account Name: WASIM SABIR<br>
-    IBAN: IT74V0200801673000420710073
-  </p>
-
-  <p>
-    <strong>📍 Address:</strong><br>
-    Dobay Barnala LA5, Azad Kashmir
-  </p>
-</section>
-    ضرورت پڑنے پر تفصیلات اور ثبوت بھی فراہم کیے جائیں گے۔
-  </p>
-</section>
-
-<footer>
-  <p>
-    اللہ تعالیٰ آپ کے مال اور نیت میں برکت عطا فرمائے۔ آمین 🤲
-  </p>
+<p>
+Dobay Barnala LA5 – Azad Kashmir<br>
+یہ ایک فلاحی، غیر منافع بخش اور رضاکارانہ مشن ہے
+</p>
 </footer>
 
 </body>
