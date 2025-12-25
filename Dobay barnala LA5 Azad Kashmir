@@ -1,4 +1,127 @@
-<!DOCTYPE html>
+<!DOCTYPE html><!DOCTYPE html>
+<html lang="ur">
+<head>
+  <meta charset="UTF-8">
+  <title>Dobay Barnala LA5 – Azad Kashmir</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body{
+      margin:0;
+      font-family: "Noto Nastaliq Urdu", "Arial", sans-serif;
+      background:#f5f5f5;
+      direction: rtl;
+    }
+    header{
+      background:#0b5d3b;
+      color:white;
+      text-align:center;
+      padding:20px;
+    }
+    header h1{
+      margin:0;
+      font-size:26px;
+    }
+    header p{
+      margin-top:10px;
+      font-size:16px;
+    }
+    section{
+      background:white;
+      margin:15px;
+      padding:15px;
+      border-radius:10px;
+      box-shadow:0 0 5px rgba(0,0,0,0.1);
+    }
+    h2{
+      color:#0b5d3b;
+      border-bottom:2px solid #0b5d3b;
+      padding-bottom:5px;
+    }
+    img{
+      width:100%;
+      border-radius:10px;
+      margin:10px 0;
+    }
+    .donate{
+      background:#e8f5ee;
+      border:2px solid #0b5d3b;
+    }
+    .donate strong{
+      color:#0b5d3b;
+    }
+    footer{
+      text-align:center;
+      padding:15px;
+      font-size:14px;
+      color:#555;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>ڈوبے برنالا LA5 – آزاد کشمیر</h1>
+  <p>خدمتِ انسانیت — صدقۂ جاریہ</p>
+</header>
+
+<section>
+  <h2>ہمارا مشن</h2>
+  <p>
+    یہ مشن اللہ کی رضا کے لیے شروع کیا گیا ہے تاکہ
+    گاؤں ڈوبے برنالا اور آس پاس کے مستحق افراد،
+    غریب مریضوں، یتیم بچوں اور ضرورت مند خاندانوں
+    کی مدد کی جا سکے۔
+  </p>
+</section>
+
+<section>
+  <h2>ہمارے مقاصد</h2>
+  <ul>
+    <li>غریب اور مستحق مریضوں کا علاج</li>
+    <li>یتیم اور غریب بچوں کی تعلیم</li>
+    <li>بیوہ خواتین اور بے سہارا خاندانوں کی مدد</li>
+    <li>راشن، کپڑے اور ضروریاتِ زندگی کی فراہمی</li>
+    <li>شفاف اور دیانتدار نظام</li>
+  </ul>
+</section>
+
+<section>
+  <h2>قواعد و ضوابط</h2>
+  <p>
+    یہ مشن غیر سیاسی اور غیر فرقہ وارانہ ہے۔
+    تمام عطیات مکمل شفافیت کے ساتھ
+    صرف فلاحی کاموں میں استعمال کیے جائیں گے۔
+  </p>
+</section>
+
+<section class="donate">
+  <h2>عطیہ (Donate)</h2>
+  <p>
+    آپ 1 روپیہ، 50 پیسے یا جتنا دل چاہے عطیہ کر سکتے ہیں۔
+    آپ کا چھوٹا سا تعاون کسی کی زندگی بدل سکتا ہے۔
+  </p>
+
+  <p><strong>Bank Name:</strong> UniCredit (Italy)</p>
+  <p><strong>Account Name:</strong> WASIM SABIR</p>
+  <p><strong>IBAN:</strong> IT74V0200801673000420710073</p>
+</section>
+
+<section>
+  <h2>اعتماد اور شفافیت</h2>
+  <p>
+    ہر عطیہ درست جگہ پر پہنچایا جائے گا۔
+    ضرورت پڑنے پر تفصیلات اور ثبوت بھی فراہم کیے جائیں گے۔
+  </p>
+</section>
+
+<footer>
+  <p>
+    اللہ تعالیٰ آپ کے مال اور نیت میں برکت عطا فرمائے۔ آمین 🤲
+  </p>
+</footer>
+
+</body>
+</html>
 <html lang="ur">
 <head>
   <meta charset="UTF-8">
